@@ -7,7 +7,7 @@ createApp({
     data: function(){
         return {
             message : "Hello Vue!",
-            image : "hello-vue.jpg",
+            image : "img/hello-vue.jpg",
         }
     }
 }).mount("#app");
